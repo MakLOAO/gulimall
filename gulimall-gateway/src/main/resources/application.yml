@@ -1,0 +1,14 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        # 当访问localhost:80/?url=baidu的时候，会路由到https://www.baidu.com
+        - id: test_route
+          uri: https://www.baidu.com
+          predicates:
+            - Query=url, baidu
+        # 当访问localhost:80/?url=qq的时候，会路由到https://www.qq.com
+        - id: qq_route
+          uri: https://www.qq.com
+          predicates:
+            - Query=url, qq
