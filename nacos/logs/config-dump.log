@@ -1,0 +1,8 @@
+2021-01-17 17:48:53,475 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1610546890253, length=42, md5=12230f005f1bc12391a6f2c20df85116
+
+2021-01-17 17:48:53,490 INFO [dump-all-ok] gulimall-coupon-dev.yml+DEFAULT_GROUP, 1610547729111, length=48, md5=9886610fafcea92460b6115411037c1b
+
+2021-01-17 17:48:53,490 INFO [dump-all-ok] mybatis.yml+dev, 1610548901758, length=12, md5=b0cf8a879abf86983759bbf9844b6619
+
+2021-01-17 17:48:53,491 INFO [dump-all-ok] datasource.yml+dev, 1610548918428, length=15, md5=263b37c0f4187745a27f60bf3a439633
+

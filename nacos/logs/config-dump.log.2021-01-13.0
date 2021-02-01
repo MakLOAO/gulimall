@@ -1,0 +1,4 @@
+2021-01-13 21:27:34,944 INFO [dump-all-ok] gulimall-coupons.properties+DEFAULT_GROUP, 1610377603364, length=45, md5=b7c128dd9e36764b400eda5e5001f61c
+
+2021-01-13 22:07:56,658 WARN [dump-ignore] ignore to save cache file. groupKey=gulimall-coupon.properties+DEFAULT_GROUP, md5=8ef1f0118b51dfb430962f398071c554, lastModifiedOld=1610546841097, lastModifiedNew=1610546876583
+
